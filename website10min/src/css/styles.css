@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins";
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  border: 1px solid red;
+  padding: 2.2rem;
+}
+
+.hero {
+  text-align: center;
+}
